@@ -1,0 +1,184 @@
+================ Job statistics ================ 11 splits
+Job ID: job_1765101176963_0033
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 233777 ms (232.777 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765101176963_0034
+Job name: Sales per category with sorting (1, 2)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 2
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 241828 ms (241.828 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765101176963_0035
+Job name: Sales per category with sorting (1, 4)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 4
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 246940 ms (246.946 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765101176963_0036
+Job name: Sales per category with sorting (1, 8)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 8
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 246835 ms (246.835 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765101176963_0036
+Job name: Sales per category with sorting (1, 16)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 16
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 251483 ms (251.483 s)
+================================================
+
+
+------------------------------------------------
+
+
+================ Job statistics ================ 40 splits
+Job ID: job_1765268389660_0002
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 67108864 bytes
+Input file split max size: 134217728 bytes
+Execution time: 280308 ms (280.308 s)
+================================================
+
+
+================ Job statistics ================ 20 splits
+Job ID: job_1765268389660_0003
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 134217728 bytes
+Input file split max size: 268435456 bytes
+Execution time: 254402 ms (254.402 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0004
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 232078 ms (232.078 s)
+================================================
+
+
+================ Job statistics ================ 6 splits
+Job ID: job_1765268389660_0005
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 536870912 bytes
+Input file split max size: 1073741824 bytes
+Execution time: 245232 ms (245.232 s)
+================================================
+
+
+================ Job statistics ================ 3 splits
+Job ID: job_1765268389660_0007
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 1073741824 bytes
+Input file split max size: 2147483648 bytes
+Execution time: 175162 ms (175.162 s)
+================================================
+
+
+------------------------------------------------
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0008
+Job name: Sales per category with sorting (1, 1)
+Status: SUCCESS
+Number of reduce tasks: 1
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 234749 ms (234.749 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0009
+Job name: Sales per category with sorting (2, 1)
+Status: SUCCESS
+Number of reduce tasks: 2
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 256886 ms (256.886 s)
+===============================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0010
+Job name: Sales per category with sorting (4, 1)
+Status: SUCCESS
+Number of reduce tasks: 4
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 264832 ms (264.832 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0011
+Job name: Sales per category with sorting (8, 1)
+Status: SUCCESS
+Number of reduce tasks: 8
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 281408 ms (281.408 s)
+================================================
+
+
+================ Job statistics ================ 11 splits
+Job ID: job_1765268389660_0011
+Job name: Sales per category with sorting (16, 1)
+Status: SUCCESS
+Number of reduce tasks: 16
+Number of map threads: 1
+Input file split min size: 268435456 bytes
+Input file split max size: 536870912 bytes
+Execution time: 297003 ms (297.003 s)
+================================================

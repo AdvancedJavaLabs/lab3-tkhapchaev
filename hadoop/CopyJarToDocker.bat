@@ -1,0 +1,1 @@
+docker cp .\build\libs\sales-mapreduce-1.0.jar namenode:/tmp/

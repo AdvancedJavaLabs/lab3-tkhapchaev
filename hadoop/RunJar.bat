@@ -1,0 +1,1 @@
+docker exec namenode hadoop jar /tmp/sales-mapreduce-1.0.jar ru.sales.mapreduce.SalesJob /input/copied /output 1 1 268435456 536870912
