@@ -1,0 +1,2 @@
+docker exec namenode bash -c "mkdir -p /tmp/sales_output && hdfs dfs -copyToLocal -f /output/* /tmp/sales_output/"
+docker cp namenode:/tmp/sales_output/. D:\projects\lab3-tkhapchaev\hadoop\sales_output
